@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Suaah_WWW", "Suaah_WWW\Suaah_WWW.ssmssqlproj", "{F601E980-1CC3-4760-A30C-60BBC72D09F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F601E980-1CC3-4760-A30C-60BBC72D09F8}.Default|Default.ActiveCfg = Default
+		{8EDCD154-8B4A-4609-A5E5-A2D531410208}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B9D683-187E-4F48-BE6F-875F20CC17E8}
+	EndGlobalSection
+EndGlobal
